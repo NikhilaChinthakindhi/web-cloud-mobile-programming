@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\NikhilaReddy\AppData\Local\Android\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="F:\UMKC_Studies\sem4\webmobilecloud\mobile\Speech-to-Text\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_32d72eb3b1938b08035248518cc748ee7f87d2c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NikhilaReddy\.android\build-cache\7f07e3d0c5dce4058e8a29d9c706cf461fa4c8ca\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="F:\UMKC_Studies\sem4\webmobilecloud\mobile\Speech-to-Text\app\build\intermediates\pre-dexed\debug\classes_f4319ce9a7da4ad42645ad69ce53b4e99464ebbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NikhilaReddy\.android\build-cache\9135b71ab9312d42fdcd92316b046e4f9d4868bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="F:\UMKC_Studies\sem4\webmobilecloud\mobile\Speech-to-Text\app\build\intermediates\pre-dexed\debug\classes_d3463bca1413504490548a935c9c8eb30ab9096e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NikhilaReddy\.android\build-cache\0ce30996e145d38583186b3580b3fb6aced1bdaa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="F:\UMKC_Studies\sem4\webmobilecloud\mobile\Speech-to-Text\app\build\intermediates\pre-dexed\debug\classes_6367735f77a7b4210ee0dbfdef2ba9756f0ca4d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NikhilaReddy\.android\build-cache\a6e806084ab888bde4e08f6afc091fe9cbb408e8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\UMKC_Studies\sem4\webmobilecloud\mobile\Speech-to-Text\app\build\intermediates\pre-dexed\debug\classes_1c35e7fdeaca4fb09b61cc7c004f262db5bc224b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NikhilaReddy\.android\build-cache\0fbde60eb932bc3a514e70ecee9d7341bbb43195\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="F:\UMKC_Studies\sem4\webmobilecloud\mobile\Speech-to-Text\app\build\intermediates\pre-dexed\debug\classes_f0bd8ae3eec687e00493288d1643a9311ce7dd2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NikhilaReddy\.android\build-cache\c10694d2d3c8bd072b5e5d2f366cc4c71bcfd89f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="F:\UMKC_Studies\sem4\webmobilecloud\mobile\Speech-to-Text\app\build\intermediates\pre-dexed\debug\classes_dbfcda5a089c9ab633506276106743c42689873b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NikhilaReddy\.android\build-cache\e6c8ce1a5bef759b109a5086262e94a3898cb290\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="F:\UMKC_Studies\sem4\webmobilecloud\mobile\Speech-to-Text\app\build\intermediates\pre-dexed\debug\classes_5ecf25925495a57189e2e4fa371b2538130d3b9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NikhilaReddy\.android\build-cache\f148f74b269c2e7abcc3f4cf69ce04ea8e5e618a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="F:\UMKC_Studies\sem4\webmobilecloud\mobile\Speech-to-Text\app\build\intermediates\pre-dexed\debug\classes_7db48e4fc165c09006ce82531f6ee96eb108340a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NikhilaReddy\.android\build-cache\16b4481f1f0ee0a3cfa50f6afa40cf23a59b6e0a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="F:\UMKC_Studies\sem4\webmobilecloud\mobile\Speech-to-Text\app\build\intermediates\pre-dexed\debug\classes_fef16c538336096b6df9cc4478f9a3402be2564e.jar" />
+    </item>
+
+</items>
