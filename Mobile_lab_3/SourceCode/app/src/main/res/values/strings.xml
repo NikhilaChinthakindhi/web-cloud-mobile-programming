@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Record and listen</string>
+    <string name="hint">Tap on mic to start</string>
+</resources>
